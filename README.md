@@ -3,9 +3,9 @@
 - 🌱 I’m currently majored at Marin Engineering
 - 💞️ I’m looking to collaborate on Mathematical Modeling and Deep Learning
 - 📫 How to reach me 
-- QQ:2313594637
-- Tel:+86-18802242416
-- Mail:bibizidan@hotmail.com
+- **QQ**:2313594637
+- **Tel**:+86-18802242416
+- **Mail**:bibizidan@hotmail.com
 
 <!---
 Kaiserreich-Official/Kaiserreich-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
